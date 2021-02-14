@@ -25,7 +25,7 @@ myList.remove("C++")
 print(myList)
 
 myList.sort()
-print()
+print("")
 print("Sorted list : ",myList)
 
 print()

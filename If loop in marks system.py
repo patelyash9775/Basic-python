@@ -1,4 +1,4 @@
-marks=float(input("Enter your marks : "))
+marks=float(input("Enter your marks: "))
 
 print("Grade : ",end="")
 

@@ -6,4 +6,4 @@ for i in range(len(a)):
     if(a[i]>0):
         l.append(a[i])
         
-print(l)
+print(l,end="")

@@ -1,6 +1,6 @@
 import operator
 
-string=input("Please Enter a string : ")
+string=input("Please Enter a string: ")
 s=list(string)
 
 

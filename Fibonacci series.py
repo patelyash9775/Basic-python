@@ -1,4 +1,4 @@
-n=int(input("Enter term where till we want to print series : "))
+n=int(input("Enter term where till we want to print series: "))
 print("The fibonacci series till term ",n," : ",end=" ")
 
 a=0

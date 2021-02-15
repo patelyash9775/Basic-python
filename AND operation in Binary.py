@@ -1,0 +1,6 @@
+a,b=input("Enter a two number separate by comma : ").split(',')
+a=int(a)
+b=int(b)
+print ("a&b : ",a & b)
+print ("Binary of a&b : ",bin(a&b))
+print(bin(a&b)[2:])

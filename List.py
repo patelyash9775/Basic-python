@@ -23,3 +23,19 @@ print("After removing : ",end="")
 myList.remove("C++")
 
 print(myList)
+
+myList.sort()
+print()
+print("Sorted list : ",myList)
+
+print()
+myList.sort(reverse=True)
+print("Reverse sorted list : ",myList)
+
+print()
+myList.pop()
+print("After poping : ",myList)
+
+print()
+myList.pop(1) #passing value is index
+print("After poping : ",myList)
